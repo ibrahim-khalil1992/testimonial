@@ -1,0 +1,182 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+
+@media (min-width: 1281px) {
+  
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Laptops, Desktops
+    ##Screen = B/w 1025px to 1280px
+  */
+  
+  @media (min-width: 1025px) and (max-width: 1280px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (portrait)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Tablets, Ipads (landscape)
+    ##Screen = B/w 768px to 1024px
+  */
+  
+  @media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Low Resolution Tablets, Mobiles (Landscape)
+    ##Screen = B/w 481px to 767px
+  */
+  
+  @media (min-width: 481px) and (max-width: 767px) {
+    
+    /* CSS */
+    
+  }
+  
+  /* 
+    ##Device = Most of the Smartphones Mobiles (Portrait)
+    ##Screen = B/w 320px to 479px
+  */
+  
+  @media (min-width: 320px) and (max-width: 480px) {
+    
+    /* CSS */
+    .left {
+        margin: 40px 0;
+        text-align: center;
+    }
+    .banner{
+        height: 166vh;
+    }
+    .banner span i {
+        line-height: 5px;
+        padding: 13px 5px;
+    }
+    .banner img {
+        width: 82%;
+        margin-left: 32px;
+    }
+    .col-md-7 {
+        margin-top: 0px;
+    }
+    .nich {
+      text-align: center;
+        margin-top: 0px;
+    }
+    .nich h3 {
+        margin-right: 0px;
+    }
+    .cloud img {
+      margin: 17px;
+    }
+    .next{
+      text-align: center;
+    }
+    .next h3 {
+      margin: 6px 0;
+    }
+    .next p {
+      margin: 0px;
+    }
+    .next-one{
+      text-align: center;
+    }
+    .next-one .top {
+      padding: 0px;
+    }
+    .next-one .botom {
+      padding: 0px;
+    }
+    .next-one .midle {
+      padding: 0px;
+    }
+    /* .clout{
+      margin-left: 142px;
+    }
+    .coun{
+      margin-left: 142px;
+    }
+    .count{
+      margin-left: 142px;
+    } */
+    .office .right {
+      text-align: center;
+      padding: 20px 0px 0px 0px;
+    }
+    .course h3 {
+      margin: 0px;
+    }
+    .course .cla {
+      margin: 0px;
+    }
+    .planing h3 {
+      padding: 0px;
+      text-align: center;
+    }
+    .planing .near {
+      padding: 0px;
+      text-align: center;
+    }
+    .planing .col-md-5 img {
+      width: 110%;
+      margin: 40px 0px -38px -23px;
+    }
+    .courv h3 {
+      padding: 0px;
+    }
+    .courv p {
+      padding: 0px;
+    }
+    .offset-2 {
+      margin: 0px 0px 30px 0px;
+    }
+    .people h3 {
+      padding: 0px;
+      text-align: center;
+    }
+    .people p {
+      text-align: center;
+      padding: 0px;
+    }
+    .review p {
+      padding: 0px;
+    }
+    .review {
+      padding: 0px 0px 20px 0px;
+    }
+    .inner img {
+      width: 46%;
+    }
+    .download img {
+      margin-top: 15px;
+    }
+    .botomm img {
+      width: 50%;
+    }
+    .botomm ul li {
+      margin: 0 3px;
+      font-size: 10px;
+    }
+    
+  }
+  
